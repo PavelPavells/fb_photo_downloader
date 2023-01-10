@@ -1,4 +1,4 @@
-goFBPages
+fb_photo_downloader
 ======================
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/toomore/gogrs/master/LICENSE)
 
